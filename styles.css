@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+.square{
+    width: 450px;
+    height: 325px;
+    background-color: white;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.postcardHeader{
+    height: 25%;
+    width: 85%;
+    background-color: white;
+    padding-left: 25px;
+}
+
+.title{
+ padding-top: 10px;
+ font-size: 15px
+}
+
+.logo {
+    position:fixed; 
+    top:0; 
+    margin-top: 60px;
+    padding-left: 360px;
+}
+
+img{
+    width:50px;
+    height:50px;
+   } 
+
+.container {
+    width: 150%;
+    height: 100px;
+}
+
+.col1 {
+    width: 200px; 
+    float: left; 
+    height: 150px; 
+    padding-left: 15px;
+}
+.col2 {
+    width: 200px; 
+    float: left; 
+    height: 150px; 
+}
+.field {
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid gray;
+  padding: 7px 0;
+}
+#send {
+    margin-left: 150px;
+    margin-top: 45px;    
+}
+
+*{
+    font-family: 'Handlee', cursive;
+}
